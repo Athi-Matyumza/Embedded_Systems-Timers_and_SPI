@@ -1,7 +1,7 @@
 # Embedded Systems II: Timers and SPI
 
 ## Overview
-This practical guide provides a brief recap of interfacing with basic board components, including LEDs and pushbuttons, on the STM32 microcontroller. The focus of this practical is to explore the use of timers in embedded systems, which play a crucial role in tasks such as time display, countdowns, and scheduling operations in various appliances like microwaves, ovens, and dishwashers.
+This project guide provides a brief recap of interfacing with basic board components, including LEDs and pushbuttons, on the STM32 microcontroller. The focus of this practical is to explore the use of timers in embedded systems, which play a crucial role in tasks such as time display, countdowns, and scheduling operations in various appliances like microwaves, ovens, and dishwashers.
 
 ## Contents
 1. **LEDs and Pushbuttons Recap:** A brief review of interfacing with LEDs and pushbuttons on the STM32 board.
@@ -22,7 +22,6 @@ This practical guide provides a brief recap of interfacing with basic board comp
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Follow the step-by-step instructions provided in each section of the practical guide.
 3. Experiment with the code samples and examples to enhance your understanding of timers and SPI.
 4. Explore the resulting LED patterns generated based on the EEPROM data.
 
